@@ -2,7 +2,7 @@
 
 ## Agenda
 
-1. Accessing Terrafrom Cloud for Business
+1. Accessing Terraform Cloud for Business
 2. Creating an organization
 3. Connect to a Version Control System
 4. Create a Workspace
