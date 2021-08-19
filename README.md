@@ -6,9 +6,9 @@
 2. Creating an organization
 3. Connect to a Version Control System
 4. Create a Workspace
-5. Trigger Initial Run
-5. Modify infrastructure
-6. Destroy infrastructure
+5. Deploy Infrastructure
+5. Modify Infrastructure
+6. Destroy Infrastructure
 
 ### Tasks
 
