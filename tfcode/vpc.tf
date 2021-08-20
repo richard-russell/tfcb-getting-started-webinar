@@ -7,7 +7,6 @@ resource "aws_vpc" "main" {
 
     tags = {
     Owner = "cbeck"
-    Name = "tfcb-vpc"
   }
 }
 
