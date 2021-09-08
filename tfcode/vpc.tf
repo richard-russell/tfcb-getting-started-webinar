@@ -7,6 +7,7 @@ resource "aws_vpc" "main" {
 
   tags = {
     Owner = "cbeck"
+    Name = "TFCB-Webinar"
   }
 }
 
